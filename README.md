@@ -1,1 +1,3 @@
 # thesis-public
+
+This repository contains a script in Sage (a python-based Computer Algebra System) that I wrote for my master thesis in mathematics, titled "Littlewood polynomials with square discriminant". It provides basic commands to reproduce most of the sets under consideration in the thesis, such as the set of Littlewood polynomials of certain degree, those that are (skew-)reciprocal, the trace polynomials of balanced polynomials, and commands that verify whether a polynomial is (skew-)reciprocal. It also includes code that visualises the various sets of roots. 
